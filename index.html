@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Doc Templates</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta
+			name="description"
+			content="documentation of technologies that I use in web development"
+		/>
+		<meta
+			name="viewport"
+			content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+		/>
+		<meta name="twitter:title" content="Polly.JS" />
+		<meta
+			name="twitter:description"
+			content="documentation of technologies that I use in web development"
+		/>
+		<link
+			rel="shortcut icon"
+			href="https://www.assets.gopibabu.live/files/images/blog_favicon.ico"
+			type="image/x-icon"
+		/>
+		<link
+			rel="icon"
+			href="assets/images/blog_favicon.ico"
+			type="image/x-icon"
+		/>
+		<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+		<link rel="stylesheet" href="assets/styles.css" />
+		<link rel="stylesheet" href="./assets/css/prism-xonokai.css" />
+		<link rel="stylesheet" href="./assets/css/styles.css" />
+	</head>
+
+	<body>
+		<div id="app"></div>
+
+		<script>
+			window.$docsify = {
+				name: 'Tech Documentation',
+				logo: 'assets/images/tech_logo.png',
+				loadSidebar: true,
+				coverpage: true,
+				onlyCover: true,
+				auto2top: true,
+				autoHeader: false,
+				subMaxLevel: 3,
+				maxLevel: 4,
+				repo: 'https://github.com/gopibabus/DocTemplate/',
+				alias: {
+					'/.*/_sidebar.md': '/_sidebar.md',
+					'.*?/CHANGELOG':
+						'https://github.com/gopibabus/DocTemplate/master/CHANGELOG',
+					'.*?/CONTRIBUTING':
+						'https://github.com/gopibabus/DocTemplate/master/CONTRIBUTING',
+				},
+				homepage: '/README.md',
+				search: {
+					paths: 'auto',
+					placeholder: 'Search',
+					noData: 'No Results.',
+				},
+				ga: 'UA-120716183-1',
+				tabs: {
+					persist: true, // default
+					sync: false, // default
+					theme: 'classic', // default
+					tabComments: true, // default
+					tabHeadings: true, // default
+				},
+			};
+		</script>
+		<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-clike.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markup.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-css.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-javascript.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-js-extras.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-php.min.js"></script>
+		<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+		<script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
+		<script src="//unpkg.com/docsify-copy-code@2"></script>
+		<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+		<script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+		<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/docsify-tabs"></script>
+	</body>
+</html>
