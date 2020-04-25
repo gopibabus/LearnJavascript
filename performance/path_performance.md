@@ -1,1 +1,0 @@
-# 🔥Critical Render Path Optimization

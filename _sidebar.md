@@ -1,13 +1,28 @@
-- Topic 1
+- Basics
 
-  - [Introduction](ssh/intro_ssh.md)
-  - [Internals](ssh/internals_ssh.md)
-  - [Practice](ssh/practice_ssh.md)
+  - [Data Types](data_types/data_types.md)
+  - [Variables](variables/variables.md)
+  - [String Methods](strings/string_methods.md)
+  - [Math Object](math_object/math_object.md)
+  - [Operators](operators/operators.md)
+  - [Control flow](control_flow/control_flow.md)
 
-- Topic 2
+- Intermediate
 
-  - [Introduction](performance/intro_performance.md)
-  - [N/W Optimizations](performance/network_performance.md)
-  - [Critical Render Path](performance/path_performance.md)
+  - [Arrays](arrays/arrays.md)
+  - [Array Methods](arrays/array_methods.md)
+  - [Reference Types](reference_types/reference.md)
+  - [Objects](object/objects.md)
+  - [Loops](loops/loops.md)
+  - [Functions](functions/functions.md)
+  - [Arrow Functions](functions/arrow_functions.md)
+  - [Array Callback Methods](arrays/array_callback_methods.md)
+  - [New JS Features](new_js_features/new_js_features.md)
+  - [Object Methods](object/object_methods.md)
+
+- Advanced
+
+  - [DOM Manipulation](dom/dom.md)
+  - [Events](events/events.md)
 
 - [Contributing](contribution/index.md)

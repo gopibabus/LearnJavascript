@@ -1,16 +1,17 @@
 ![logo](assets/images/tech.png)
 
-> Record, Replay, and memorize Technology
+> Learn and memorize JavaScript in a easy way😉
 
-- 🚀 Node & Browser Support
-- ⚡️️ Simple, Powerful, & Intuitive API
-- 💎 First Class Mocha & QUnit Test Helpers
-- 🔥 Intercept, Pass-Through, and Attach Events
-- 📼 Record to Disk or Local Storage
-- ⏱ Slow Down or Speed Up Time
+- 🚀 Data Types, Variables & Operators
+- ⚡️️ String and String Methods
+- 💎 Array, Array Methods & Reference Types
+- 🔥 Math Object
+- 📼 Control Flow & Lsoops
+- ⏱ Objects, Object Methods & Functions
+- 🏗 DOM Manipulation & Events
 
 <div class="buttons">
-  <a href="https://github.com/gopibabus/DocTemplate/" target="_blank"><span>GitHub</span></a>
+  <a href="https://github.com/gopibabus/LearnJavascript/" target="_blank"><span>GitHub</span></a>
   <a href="#/README"><span>Get Started</span></a>
 </div>
 
