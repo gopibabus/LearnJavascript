@@ -24,5 +24,6 @@
 
   - [DOM Manipulation](dom/dom.md)
   - [Events](events/events.md)
+  - [Asynchronous Code](async/async.md)
 
 - [Contributing](contribution/index.md)
