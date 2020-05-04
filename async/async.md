@@ -1,6 +1,8 @@
 # 🔥Asynchronous Code, Callbacks & Promises
 
-<img src="./assets/images/async.png" alt="async" width="700" height="400"/>
+<img src="./assets/images/sync-async.gif" alt="async" width="700"/>
+
+<img src="./assets/images/async.png" alt="async" width="700"/>
 
 ## ⚡Call Stack
 
@@ -31,6 +33,10 @@ foo();
 ?> Call Stack of above mentioned code is shown below🚛
 
 <img src="./assets/images/call_stack_js.png" alt="call stack" width="700"/>
+
+---
+
+<img src="./assets/images/call_stack_2.gif" alt="call stack" width="700"/>
 
 ## ⚡JS is Single threaded
 
