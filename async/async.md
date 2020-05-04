@@ -48,6 +48,10 @@ foo();
 
 <img src="./assets/images/web_api.png" alt="web api" width="700"/>
 
+---
+
+<img src="./assets/images/set_timeout.gif" alt="web api work" width="700"/>
+
 !> [Live Demo to see how web apis work](http://latentflip.com/loupe/)
 
 ?> Browsers come with **Web APIs** that are able to handle certain tasks in the background (like making requests or **setTimeout**).<br>
@@ -56,7 +60,11 @@ Once the browser finishes those tasks, they return and are pushed onto the stack
 
 ?> Examples of Web API's methods: **setTimeout()** and **eventListners**
 
+<img src="./assets/images/set_timeout2.gif" alt="set timeout" width="700"/>
+
 > [Web APIs supported by browsers from 🌐MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/API)
+
+> [Nice article on Web APIs & Event loops](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 ## ⚡Callbacks
 

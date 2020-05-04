@@ -26,5 +26,6 @@
   - [Events](events/events.md)
   - [Asynchronous Code](async/async.md)
   - [Making HTTP Request](async/http.md)
+  - [Async & Await](async/async_await.md)
 
 - [Contributing](contribution/index.md)
