@@ -159,6 +159,8 @@ animateRight(btn, 100).catch((err) => {
 });
 ```
 
+> [Nice article on async/await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+
 ## ⚡Parallel Vs Sequential Requests
 
 ### ✳Sequential Requests

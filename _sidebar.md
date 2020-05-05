@@ -27,5 +27,6 @@
   - [Asynchronous Code](async/async.md)
   - [Making HTTP Request](async/http.md)
   - [Async & Await](async/async_await.md)
+  - [Prototypes & Classes](async/oops.md)
 
 - [Contributing](contribution/index.md)
