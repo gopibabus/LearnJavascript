@@ -392,3 +392,56 @@ const stDetails = ["gopibabu", "srungavarapu"];
 
 studentDetails(stDetails);//'gopibabu srungavarapu'
 ```
+
+## ⚡Dynamic import()
+
+> The new **dynamic import** syntax looks like a function (but it's not), and it returns a promise, which also means we can use async/await with it.
+
+```js
+const mod = figure.kind === "rectangle" ? "rectangle.js" : "circle.js";
+const { calcSquare } = await import(mod);
+console.log(calcSquare(figure));
+```
+
+## ⚡Nullish coalescing
+
+> ES2020 introduces a new operator **??** which evaluates to the right-hand when the initial value is either null or undefined.
+
+```js
+const initialVal = 0;
+
+// old way
+const myVar = initialVal || 10; // => 10
+
+// new way
+const myVar = initialVal ?? 10; // => 0
+```
+
+## ⚡Optional chaining
+
+> The new **optional chaining** operator aims to make the code shorter when dealing with nested objects and checking for possible **undefineds**.
+
+```js
+const user = { name: "John" };
+
+// Fails with `Uncaught TypeError: Cannot read property 'city' of undefined`
+const city = user.address.city;
+
+// Works but verbose
+let city = "Not Set";
+if (user.address !== undefined && user.address !== null) {
+  city = user.address.city;
+}
+
+// Works and concise but requires a 3rd party library (underscore)
+const city = _.get(user, "address.city", "Not Set");
+
+// 🤗
+const city = user?.address?.city ?? "Not Set";
+```
+
+## ⚡globalThis
+
+?> In JavaScript, there's always one big context object that contains everything. Traditionally, in **browsers** it was **window**. But if you try accessing it in **Node application**, you'll get an error. There is no **window** global object in Node; instead there is **global** object. Then again, in **WebWorkers**, there is no access to **window**, but there is **self** instead.
+
+> The new **globalThis** property abstracts away the difference. Meaning that you can always refer to **globalThis** without caring in which context you are now.
