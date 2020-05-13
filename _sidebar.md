@@ -17,8 +17,9 @@
   - [Functions](functions/functions.md)
   - [Arrow Functions](functions/arrow_functions.md)
   - [Array Callback Methods](arrays/array_callback_methods.md)
-  - [New JS Features](new_js_features/new_js_features.md)
   - [Object Methods](object/object_methods.md)
+  - [call vs apply vs bind](new_js_features/call_apply_bind.md)
+  - [New JS Features](new_js_features/new_js_features.md)
 
 - Advanced
 
