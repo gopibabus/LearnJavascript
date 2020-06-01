@@ -30,4 +30,8 @@
   - [Async & Await](async/async_await.md)
   - [Prototypes & Classes](async/oops.md)
 
+- Node.js
+
+  - [Resources](node/res.md)
+
 - [Contributing](contribution/index.md)
