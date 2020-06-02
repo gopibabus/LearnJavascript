@@ -34,4 +34,8 @@
 
   - [Resources](node/res.md)
 
+- Deno
+
+  - [Resources](deno/res.md)
+
 - [Contributing](contribution/index.md)
