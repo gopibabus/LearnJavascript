@@ -13,3 +13,4 @@
 | [React Native Windows](https://microsoft.github.io/react-native-windows/) | A framework for building native Windows apps with React. |
 | [KnexJS](http://knexjs.org/)                                              | SQL query builder                                        |
 | [ReactStrap](https://github.com/reactstrap/reactstrap)                    | Stateless React Components for Bootstrap 4.              |
+| [Grid.js](https://gridjs.io/)                                             | Advanced Table Plugin                                    |
