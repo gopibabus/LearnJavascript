@@ -30,6 +30,10 @@
   - [Async & Await](async/async_await.md)
   - [Prototypes & Classes](async/oops.md)
 
+- Libraries
+
+  - [npm Libraries](libraries/index.md)
+
 - Node.js
 
   - [Resources](node/res.md)
@@ -37,5 +41,10 @@
 - Deno
 
   - [Resources](deno/res.md)
+
+- Questions and Snippets
+
+  - [Snippets](qa/snippets.md)
+  - [Questions](qa/questions.md)
 
 - [Contributing](contribution/index.md)
