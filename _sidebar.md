@@ -38,7 +38,6 @@
 
   - [Introduction](node/intro.md)
   - [Node Module System](node/nms.md)
-  - [Node Package Manager](node/npm.md)
   - [Building RESTful API's](node/express.md)
   - [Express - Advanced Topics](node/express-adv.md)
   - [Asynchronous JS](node/async-js.md)
