@@ -31,6 +31,7 @@
   - [Making HTTP Request](async/http.md)
   - [Async & Await](async/async_await.md)
   - [Prototypes & Classes](async/oops.md)
+  - [Deadlocks](extra/index.md)
 
 - Libraries
 
