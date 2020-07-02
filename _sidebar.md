@@ -42,6 +42,7 @@
 - Frameworks
 
   - [React](frameworks/react.md)
+  - [React Mental Models](frameworks/react-mm.md)
 
 - Node.js
 
