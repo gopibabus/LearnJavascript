@@ -35,6 +35,14 @@
   - [Prototypes & Classes](async/oops.md)
   - [Deadlocks](extra/index.md)
 
+- JS Snippets
+
+  - [Snippets](snippets/index.md)
+
+- Frameworks
+
+  - [React](frameworks/react.md)
+
 - Node.js
 
   - [Introduction](node/intro.md)
