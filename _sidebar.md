@@ -1,5 +1,7 @@
 - Timeline & Statistics
+
   - [Timeline & Statistics](timeline/index.md)
+
 - Basics
 
   - [Data Types](data_types/data_types.md)
@@ -33,10 +35,6 @@
   - [Prototypes & Classes](async/oops.md)
   - [Deadlocks](extra/index.md)
 
-- Libraries
-
-  - [npm Libraries](libraries/index.md)
-
 - Node.js
 
   - [Introduction](node/intro.md)
@@ -53,7 +51,6 @@
   - [Integration Testing](node/integration-test.md)
   - [TDD](node/tdd.md)
   - [Deployment](node/deploy.md)
-
   - [Resources](node/res.md)
 
 - Deno
