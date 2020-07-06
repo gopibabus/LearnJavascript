@@ -1,10 +1,10 @@
 # 🔥JavaScript Tricks
 
-<img alt="Technology" src="/snippets/iife.jfif" width="800" height="500"/>
+<img alt="Technology" src="/snippets/iife.jfif" width="800" height="600"/>
 
 ---
 
-<img alt="Technology" src="/snippets/npkill.jfif" width="800" height="500"/>
+<img alt="Technology" src="/snippets/npkill.jfif" width="800" height="600"/>
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-<img alt="Technology" src="/snippets/clone-array.jfif" width="500" height="500"/>
+<img alt="Technology" src="/snippets/clone-array.jfif" width="550" height="600"/>
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-<img alt="Technology" src="/snippets/clone_array.jfif" width="600" height="500"/>
+<img alt="Technology" src="/snippets/clone_array.jfif" width="500" height="600"/>
 
 ---
 
@@ -65,3 +65,11 @@
 ---
 
 <img alt="Technology" src="/snippets/tmi.jfif" width="800" height="450"/>
+
+---
+
+<img alt="Technology" src="/snippets/git_open.jfif" width="800" height="450"/>
+
+---
+
+<img alt="Technology" src="/snippets/scroll_top.jfif" width="800" height="800"/>
