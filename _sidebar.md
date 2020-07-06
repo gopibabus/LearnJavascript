@@ -38,6 +38,7 @@
 - JS Snippets
 
   - [Snippets](snippets/index.md)
+  - [Tricks](snippets/tricks.md)
 
 - Frameworks
 
