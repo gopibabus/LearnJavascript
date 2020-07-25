@@ -34,6 +34,7 @@
   - [Async & Await](async/async_await.md)
   - [Prototypes & Classes](async/oops.md)
   - [Deadlocks](extra/index.md)
+  - [Debugging](extra/debug.md)
 
 - JS Snippets
 
