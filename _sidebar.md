@@ -45,6 +45,7 @@
 
   - [React](frameworks/react.md)
   - [React Mental Models](frameworks/react-mm.md)
+  - [React Notes](frameworks/react-notes.md)
 
 - Node.js
 
