@@ -6,4 +6,6 @@
 
 ### ✳Deploying node.js
 
-[📺 Youtube Playlist](https://www.youtube.com/playlist?list=PLMm1r6FMEOujw796I0ZS1umZFjj5HDLEE)
+> [📺 Youtube Playlist](https://www.youtube.com/playlist?list=PLMm1r6FMEOujw796I0ZS1umZFjj5HDLEE)
+
+> [🌐 Node.js Internals](https://www.smashingmagazine.com/2020/04/nodejs-internals/) ⭐⭐⭐⭐⭐
